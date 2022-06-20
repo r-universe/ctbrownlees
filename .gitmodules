@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "nets"]
+	path = nets
+	url = https://github.com/ctbrownlees/r-package-nets
+	shallow = true
+	registered = true
